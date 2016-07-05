@@ -259,7 +259,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
  * [OkHttpPlus](https://github.com/ZhaoKaiQiang/OkHttpPlus) - OkHttp 的一个工具类开源项目OkHttpPlus——支持GET、POST、UI线程回调、JSON格式解析、链式调用、文件上传下载 ，[OkHttpPlus介绍](http://blog.csdn.net/zhaokaiqiang1992/article/details/50016815)。
  * [Android-Download-Manager-Pro](https://github.com/majidgolshadi/Android-Download-Manager-Pro) - 一个下载管理库，如果你的 App 有大量的下载工作，这个库能帮到你。
  * [FileDownloader](https://github.com/lingochamp/FileDownloader) - 文件下载引擎，稳定、高效、简单易用。
- * [jchat-android](https://github.com/jpush/jchat-android) - 一个聊天 App,具有完备的即时通讯功能,JChat 的功能基于极光 JMessage SDK 来开发。
+ * [Retrofit](https://github.com/square/retrofit) - Android和java的方式安全HTTP客户端
 
 ========
 ##### 网络测试
@@ -285,7 +285,8 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 
 ========
 #### 地图
- * [百度地图](http://www.eoeandroid.com/thread-568507-1-1.html) - Android百度地图 线路规划，模拟运动轨迹，及全景效果。
+ * [百度地图](http://lbsyun.baidu.com/) - Android百度地图 线路规划，模拟运动轨迹，及全景效果。
+ * [高德地图](http://lbs.amap.com/) - 专业的定位、地图、搜索、导航等能力
  * [AirMapView](https://github.com/airbnb/AirMapView) - 支持多个本地地图提供者包括谷歌地图V2和亚马逊地图V2。如果设备没有任何受支持的本地地图提供者,AirMapView会回退到基于web的地图提供者(目前谷歌地图)。
 
 ========
@@ -409,14 +410,14 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 
 ========
 ### 出名框架
- * [xUtils](https://github.com/wyouflf/xUtils) - xUtils 包含了很多实用的android工具。支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响。最低兼容android 2.2 (api level 8)。目前xUtils主要有四大模块：DbUtils模块、ViewUtils模块、HttpUtils模块、BitmapUtils模块。
- * [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。
  * [ButterKnife](https://github.com/JakeWharton/butterknife) - ButterKnife是一个专注于Android系统的View注入框架，让你从此从这些烦人臃肿的代码中解脱出来，[ButterKnife--View注入框架](http://stormzhang.com/openandroid/android/2014/01/12/android-butterknife/)。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
  * [EventBus](https://github.com/greenrobot/EventBus) - EventBus是一款针对Android优化的发布/订阅事件总线。主要功能是替代Intent,Handler,BroadCast在Fragment，Activity，Service，线程之间传递消息.优点是开销小，代码更优雅。以及将发送者和接收者解耦。[xBus](https://github.com/mcxiaoke/xBus) - xBus - 简洁的EventBus实现。
  * [Small](https://github.com/wequick/Small) - 做最轻巧的跨平台插件化框架，目前已支持Android、iOS以及html5插件。并且三者之间可以通过同一套javascript接口进行通信。 
  * [LayoutCast](https://github.com/mmin18/LayoutCast) - LayoutCast可以在应用不重启的情况下，将res文件夹下的改动直接同步到手机上。使用LayoutCast，可以节约Android开发者的大量编译等待时间，非常适合真机调试界面的时候使用，推荐每一位开发者安装该利器。BUCK很快，但入侵性强，项目改动大，LayoutCast对项目改动小。
  * [retrofit](https://github.com/square/retrofit/tree/version-one) - retrofit将 REST API 转换为 Java 接口。[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
  * [Dagger2](https://github.com/google/dagger) - Dagger 2 是著名的依赖注入库 [Dagger](https://github.com/square/dagger) 的继承者，我们强烈推荐它。[文档](http://google.github.io/dagger/)，[5 个顶级 Android 开源库](https://github.com/xitu/gold-miner/blob/master/TODO/Top-5-Android-libraries-every-Android-developer-should-know-about.md)
+  * [xUtils](https://github.com/wyouflf/xUtils) - xUtils 包含了很多实用的android工具。支持大文件上传，更全面的http请求协议支持(10种谓词)，拥有更加灵活的ORM，更多的事件注解支持且不受混淆影响。最低兼容android 2.2 (api level 8)。目前xUtils主要有四大模块：DbUtils模块、ViewUtils模块、HttpUtils模块、BitmapUtils模块。
+ * [afinal](http://git.oschina.net/fuhai/afinal) - Afinal是一个android的ioc，orm框架，内置了四大模块功能：FinalAcitivity,FinalBitmap,FinalDb,FinalHttp。
 
 ========
 #### 其他
@@ -469,6 +470,7 @@ https://www.aswifter.com/2015/07/02/Material-Design-Example-5/ ， [使用说明
 
 ========
 #### 好的文章
+ * [给 Android 开发者的 RxJava 详解](http://gank.io/post/560e15be2dca930e00da1083) - 给 Android 开发者的 RxJava 详解学习RxJava 作者：[扔物线](https://github.com/rengwuxian)
  * [高效抽取loading](http://www.apkbus.com/android-244454-1-1.html) - 高效抽取loading，再多的加载页面也不怕。
  * [修复bug的12个关键步骤](http://news.cnblogs.com/n/505055/) - 修复bug的12个关键步骤。
  * [Android开发技术前线](https://github.com/hehonghui/android-tech-frontier) - 里面是安卓的一些外国前沿文章的翻译，想课余时间学习 Android 的看看，已经收录了。
