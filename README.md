@@ -708,33 +708,33 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 
 8. [android-best-practicesAndroid](https://github.com/futurice/android-best-practices)开发最佳实践, 里面所介绍的经验都是来自于 Futurice 公司 Android 开发者, 介绍内容有 Android 开发规范, 架构, 布局技巧, 以及使用一些有助于快速开发相关工具等等, 非常适合新手去学习
 
-9.EventBusEventBus 是 Android 事件管理总线, 使用它可以替带 Android BroadCast, BroadCastReceiver, Handler 在 Activity, Fragment, Service, 线程之间传递消息, 大大简化了事件传递逻辑
+9. [EventBus](https://github.com/greenrobot/EventBus)是 Android 事件管理总线, 使用它可以替带 Android BroadCast, BroadCastReceiver, Handler 在 Activity, Fragment, Service, 线程之间传递消息, 大大简化了事件传递逻辑
 
-10.android-async-httpAndroid-Async-Http 是 Android 一款老牌异步请求库, 专门对 Android 在 Apache 的 HttpClient 基础上构建的异步 http 连接, 该库有很多特征, 例如: 库的 size 小, 支持文件上传不需使用第三方库支持, 内部使用线程池来处理并发, 等等
+10. [android-async-httpAndroid-Async-Http](https://github.com/loopj/android-async-http) 是 Android 一款老牌异步请求库, 专门对 Android 在 Apache 的 HttpClient 基础上构建的异步 http 连接, 该库有很多特征, 例如: 库的 size 小, 支持文件上传不需使用第三方库支持, 内部使用线程池来处理并发, 等等
 
-11.frescoFresco 是 FaceBook 公司出品的一款图片缓存库, Fresco 是一个强大的图片加载组件, 支持加载 Gif 图和 WebP 格式, 支持 Android2.3(API level 9) 及其以上系统, Fresco 中设计了 Image pipeline 和 Drawees 两个模块各施其职, 使得图片完美加载出来, 想知道更多 image pipeline 和 Drawees 有关于它的特性, 可以到它官方平台看介绍
+11. [Fresco](https://github.com/facebook/fresco) 是 FaceBook 公司出品的一款图片缓存库, Fresco 是一个强大的图片加载组件, 支持加载 Gif 图和 WebP 格式, 支持 Android2.3(API level 9) 及其以上系统, Fresco 中设计了 Image pipeline 和 Drawees 两个模块各施其职, 使得图片完美加载出来, 想知道更多 image pipeline 和 Drawees 有关于它的特性, 可以到它官方平台看介绍
 
-12.zxingZXing 是二维码领域中名气最大的开源项目, 它提供了多个平台的二维码/条形码扫描解决方案, 拥有扫描快, 识别率高, 使用简单等特点
+12. [ZXing](https://github.com/zxing/zxing) 是二维码领域中名气最大的开源项目, 它提供了多个平台的二维码/条形码扫描解决方案, 拥有扫描快, 识别率高, 使用简单等特点
 
-13.leakcanaryLeakCanary 是 Square 公司出的一款检测内存泄露工具, 该工具能帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来非常简单方便
+13. [LeakCanary](https://github.com/square/leakcanary) 是 Square 公司出的一款检测内存泄露工具, 该工具能帮助你在开发阶段方便的检测出内存泄露的问题, 使用起来非常简单方便
 
-14.butterknife由 JakeWharton 大神开发出来的, ButterKnife 是 View 注入框架, 使用它为了简写很多 findViewById 代码, 同时还支持 View 的一些事件处理函数
+14. [butterknife由](https://github.com/JakeWharton/butterknife) JakeWharton 大神开发出来的, ButterKnife 是 View 注入框架, 使用它为了简写很多 findViewById 代码, 同时还支持 View 的一些事件处理函数
 
-15.MPAndroidChartMPAndroidChart 是一款强大的 Android 图表库, 支持各种各样图表显示, 能想到的图表样式这里几乎都有, 图表还支持选择, 拖放和缩放动画效果
+15. [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) 是一款强大的 Android 图表库, 支持各种各样图表显示, 能想到的图表样式这里几乎都有, 图表还支持选择, 拖放和缩放动画效果
 
-16.ActionBarSherlock (不建议使用)ActionBarSherlock 这个库是 JakeWharton 大神开发出来支持 Android3.0 以下版本的, 后来慢慢的 Google 也提供了 AppCompat 库来支持 Android3.0 以下版本使用 ActionBar, 因此作者不建议我们再使用这个库了
+16. [ActionBarSherlock](https://github.com/JakeWharton/ActionBarSherlock) (不建议使用)ActionBarSherlock 这个库是 JakeWharton 大神开发出来支持 Android3.0 以下版本的, 后来慢慢的 Google 也提供了 AppCompat 库来支持 Android3.0 以下版本使用 ActionBar, 因此作者不建议我们再使用这个库了
 
-17.androidannotationsAndroidAnnotations 是一个能够让你快速进行 Android 开发的开源框架, 它能让你专注于真正重要的地方, 使代码更加精简, 使项目更加容易维护, 它的目标就是 "Fast Android Development.Easy maintainance"
+17. [AndroidAnnotations](https://github.com/excilys/androidannotations) 是一个能够让你快速进行 Android 开发的开源框架, 它能让你专注于真正重要的地方, 使代码更加精简, 使项目更加容易维护, 它的目标就是 "Fast Android Development.Easy maintainance"
 
-18.ViewPagerIndicator由 JakeWharton 大神开发出来的一个 ViewPager 指示器, 使用起来简单方便, 可高度定制, 开发出各种各样动画效果
+18. [ViewPagerIndicator](https://github.com/JakeWharton/ViewPagerIndicator) 由JakeWharton 大神开发出来的一个 ViewPager 指示器, 使用起来简单方便, 可高度定制, 开发出各种各样动画效果
 
-19.glideGlide 是 Google 员工的开源项目, 广泛应用于 Google 一些 App 上, 在2014年 Google I/O 大会上被推荐使用, Glide 和 Picasso 被人拿来比较研究过, Glide 与 Picasso 有 90% 的相似度, 但在一些细节上还是有点区别的, 各有各优缺点看君选择
+19. [Glide](https://github.com/bumptech/glide) 是 Google 员工的开源项目, 广泛应用于 Google 一些 App 上, 在2014年 Google I/O 大会上被推荐使用, Glide 和 Picasso 被人拿来比较研究过, Glide 与 Picasso 有 90% 的相似度, 但在一些细节上还是有点区别的, 各有各优缺点看君选择
 
-20.HomeMirror开发者是由一名程序媛 Hannah Mittelstaedt , HomeMirror 是一款 Android 镜子应用, 目前它能实现日期, 时间, 天气, 生日信息, 事件提醒器, 骑车天气的推荐, 股票信息, XKCD 漫画网站的新帖等等
+20. [HomeMirror](https://github.com/HannahMitt/HomeMirror)开发者是由一名程序媛 Hannah Mittelstaedt , HomeMirror 是一款 Android 镜子应用, 目前它能实现日期, 时间, 天气, 生日信息, 事件提醒器, 骑车天气的推荐, 股票信息, XKCD 漫画网站的新帖等等
 
-21.Android-PullToRefresh(不建议使用)一个强大的拉动刷新开源项目, 支持各种控件下拉刷新, ListView, ViewPager, WebView, ExpandableListView, GridView, ScrollView, Horizontal ScrollView, Fragment 上下左右拉动刷新, 不过现在这个项目已经停止维护更新了, 推荐使用Android-Ultra-Pull-To-Refresh
+21. [Android-PullToRefresh](https://github.com/chrisbanes/Android-PullToRefresh)(不建议使用)一个强大的拉动刷新开源项目, 支持各种控件下拉刷新, ListView, ViewPager, WebView, ExpandableListView, GridView, ScrollView, Horizontal ScrollView, Fragment 上下左右拉动刷新, 不过现在这个项目已经停止维护更新了, 推荐使用[Android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)
 
-22.MaterialDesignLibrary这个库控件都是遵循了 Google Material Design 设计规范开发出来, 例如有: Flat Button, Rectangle Button, CheckBox, Switch, Progress bar circular indeterminate 等等
+22. [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)这个库控件都是遵循了 Google Material Design 设计规范开发出来, 例如有: Flat Button, Rectangle Button, CheckBox, Switch, Progress bar circular indeterminate 等等
 
 23.PhotoViewPhotoView 是 ImageView 的子类, 支持所有 ImageView 的源生行为, 例如: 支持 Pinch 手势自由缩放, 支持双击放大/还原, 支持平滑滚动等等, 并且非常方便的与 ImageLoader/Picasso 之类的网络图片读取库集成使用, 还方便的与 ViewPager 等同样支持滑动手势的控件集成
 
