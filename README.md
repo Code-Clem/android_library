@@ -6,7 +6,7 @@
 ###  目录
 - [UI](#UI)
     - [UI](#UI)
-    - [卫星菜单](#卫星菜单)
+    - [卫星菜单](#*卫星菜单)
     - [节选器](#节选器)
     - [下拉刷新](#下拉刷新)
     - [模糊效果](#模糊效果)
@@ -35,8 +35,7 @@
     - [中文开发博客列表](#中文开发博客列表)
 
 ========
-### 具体内容 =============================
-========
+### 具体内容 
 ##### UI
  * [Awesome-MaterialDesign](https://github.com/lightSky/Awesome-MaterialDesign) - MaterialDesignCenter改名为Awesome-MaterialDesign，优化了布局，新增了不少库。
  * [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - ui库，非常多的ui及特效。
