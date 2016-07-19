@@ -736,65 +736,65 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 
 22. [MaterialDesignLibrary](https://github.com/navasmdc/MaterialDesignLibrary)这个库控件都是遵循了 Google Material Design 设计规范开发出来, 例如有: Flat Button, Rectangle Button, CheckBox, Switch, Progress bar circular indeterminate 等等
 
-23.PhotoViewPhotoView 是 ImageView 的子类, 支持所有 ImageView 的源生行为, 例如: 支持 Pinch 手势自由缩放, 支持双击放大/还原, 支持平滑滚动等等, 并且非常方便的与 ImageLoader/Picasso 之类的网络图片读取库集成使用, 还方便的与 ViewPager 等同样支持滑动手势的控件集成
+23. [PhotoView](https://github.com/chrisbanes/PhotoView) 是 ImageView 的子类, 支持所有 ImageView 的源生行为, 例如: 支持 Pinch 手势自由缩放, 支持双击放大/还原, 支持平滑滚动等等, 并且非常方便的与 ImageLoader/Picasso 之类的网络图片读取库集成使用, 还方便的与 ViewPager 等同样支持滑动手势的控件集成
 
-24.RxAndroid由 JakeWharton 大神主导开发的项目, RxAndroid 是 RxJava 的一个针对 Android 平台的扩展, 主要用于 Android 开发
+24. [RxAndroid](https://github.com/ReactiveX/RxAndroid)由 JakeWharton 大神主导开发的项目, RxAndroid 是 RxJava 的一个针对 Android 平台的扩展, 主要用于 Android 开发
 
-25.material-dialogsMaterial Dialogs 是一个可高度定制易用, 符合 Material Design 风格的 Dialogs, 兼容 Android API8 以上版本, 个人使用感觉它完全可替代 Android 原生那个, 比原生那个更加简单易用
+25. [Material Dialogs](https://github.com/afollestad/material-dialogs) 是一个可高度定制易用, 符合 Material Design 风格的 Dialogs, 兼容 Android API8 以上版本, 个人使用感觉它完全可替代 Android 原生那个, 比原生那个更加简单易用
 
-26.Android-ObservableScrollViewObservableScrollView 是一款用于在滚动视图中观测滚动事件的 Android 库, 它能够轻而易举地与 Android 5.0 Lollipop 引进的工具栏 (Toolbar) 进行交互, 还可以帮助开发者实现拥有 Material Design 应用视觉体验的界面外观, 支持ListView, ScrollView, WebView, RecyclerView, GridView组件
+26. [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) 是一款用于在滚动视图中观测滚动事件的 Android 库, 它能够轻而易举地与 Android 5.0 Lollipop 引进的工具栏 (Toolbar) 进行交互, 还可以帮助开发者实现拥有 Material Design 应用视觉体验的界面外观, 支持ListView, ScrollView, WebView, RecyclerView, GridView组件
 
-27.Android-BootstrapAndroid 版的 Bootstrap, 利用这个库能够实现很多 Bootstrap 样式风格, 之前有学过 Html 的人就知道 Bootstrap 是什么玩意啦
+27. [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap)版的 Bootstrap, 利用这个库能够实现很多 Bootstrap 样式风格, 之前有学过 Html 的人就知道 Bootstrap 是什么玩意啦
 
-28.AndroidSwipeLayout开发者是代码家, AndroidSwipeLayout 是一个支持ListView, GridView, ViewGroup等等左右上下滑动出操作菜单, 类似 qq 消息列表向左滑动显示出多某条信息的操作菜单
+28. [AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout)开发者是代码家, AndroidSwipeLayout 是一个支持ListView, GridView, ViewGroup等等左右上下滑动出操作菜单, 类似 qq 消息列表向左滑动显示出多某条信息的操作菜单
 
-29.daggerDagger 是 Square 公司出品的一个针对 Android 和 Java 的快速依赖注入器, 能够有效减少你敲代码量
+29. [Dagger](https://github.com/square/dagger) 是 Square 公司出品的一个针对 Android 和 Java 的快速依赖注入器, 能够有效减少你敲代码量
 
-30.ListViewAnimations一个轻轻松松给 Android ListView 添加动画效果的库, 支持的动画有: Alpha, SwingRightIn, SwingLeftIn, SwingBottomIn, SwingRightIn and ScaleIn等等, 使用它能很容易就实现帅爆的效果
+30. [ListViewAnimations](https://github.com/nhaarman/ListViewAnimations)一个轻轻松松给 Android ListView 添加动画效果的库, 支持的动画有: Alpha, SwingRightIn, SwingLeftIn, SwingBottomIn, SwingRightIn and ScaleIn等等, 使用它能很容易就实现帅爆的效果
 
-31.PagerSlidingTabStrip(不建议使用)PagerSlidingTabStrip 是一个给 Android ViewPager添加上 ViewPager 滑动指示器, 从 GitHub 上面看, 这个库似乎没有人在维护了, 因此不建议使用, 可使用SmartTabLayout来代替
+31. [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip)(不建议使用)PagerSlidingTabStrip 是一个给 Android ViewPager添加上 ViewPager 滑动指示器, 从 GitHub 上面看, 这个库似乎没有人在维护了, 因此不建议使用, 可使用[SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout)来代替
 
-32.AndroidViewAnimations开发者是代码家, 这个库实现很多很酷炫的 Android 动画, 动画效果是借鉴 Animate.css 来实现的, 非常酷, 而且这个使用起来也是非常简单
+32. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations)开发者是代码家, 这个库实现很多很酷炫的 Android 动画, 动画效果是借鉴 Animate.css 来实现的, 非常酷, 而且这个使用起来也是非常简单
 
-33.AndroidSlidingUpPanelAndroidSlidingUpPanel 是一个上拉面板, 就是向上滑动的时候往上飞出一个显示面板控件, 该库效果在 Google Music, Google Maps and Rdio等 App 应用到
+33. [AndroidSlidingUpPanel](https://github.com/umano/AndroidSlidingUpPanel) 是一个上拉面板, 就是向上滑动的时候往上飞出一个显示面板控件, 该库效果在 Google Music, Google Maps and Rdio等 App 应用到
 
-34.MaterialDrawerMaterialDrawer 是一个类似 Google 官方 NavigationView 侧滑显示控件, 个人认为 NavigationView 并没有 MaterialDrawer 实用, 因为 NavigationView 自由度不是很好, 很多都写死了不可以自由定义布局, 而 MaterialDrawer 能够实现跟 NavigationView 一样的效果, 同时还支持自定义效果, 自由度非常高
+34. [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) 是一个类似 Google 官方 NavigationView 侧滑显示控件, 个人认为 NavigationView 并没有 MaterialDrawer 实用, 因为 NavigationView 自由度不是很好, 很多都写死了不可以自由定义布局, 而 MaterialDrawer 能够实现跟 NavigationView 一样的效果, 同时还支持自定义效果, 自由度非常高
 
-35.Material-AnimationsMaterial-Animations 是一个很好过渡动画库, 可以应用于 Activity 与 Activity 之间的跳转, Fragment 与 Fragment 之间的跳转, 以及各个 View 变化前后的过渡动画
+35. [Material-Animations](https://github.com/lgvalle/Material-Animations) 是一个很好过渡动画库, 可以应用于 Activity 与 Activity 之间的跳转, Fragment 与 Fragment 之间的跳转, 以及各个 View 变化前后的过渡动画
 
-36.MaterialViewPager一个简单易用 Material Design 风格的 ViewPager 库
+36. [MaterialViewPager](https://github.com/florent37/MaterialViewPager)一个简单易用 Material Design 风格的 ViewPager 库
 
-37.ionion 是一个让 Android 的网络操作变得极其简单, 支持异步获取和处理JSON, 支持 Android 文件下载 (同时支持下载进度条绑定), 支持安全链接和代理
+37. [ion](https://github.com/koush/ion) 是一个让 Android 的网络操作变得极其简单, 支持异步获取和处理JSON, 支持 Android 文件下载 (同时支持下载进度条绑定), 支持安全链接和代理
 
-38.stethoStetho是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
+38. [Stetho](https://github.com/facebook/stetho)是 Facebook 出品的一个强大的 Android 调试工具,使用该工具你可以在 Chrome Developer Tools查看App的布局, 网络请求(仅限使用Volley, okhttp的网络请求库), sqlite, preference, 一切都是可视化的操作,无须自己在去使用adb, 也不需要root你的设备
 
-39.fastjsonFastjson 是一个 Java 语言编写的高性能功能完善的 JSON 库. 它采用一种“假定有序快速匹配”的算法, 把 JSON Parse的性能提升到极致, 是目前Java语言中最快的JSON库. Fastjson接口简单易用, 已经被广泛使用在缓存序列化, 协议交互, Web输出, Android客户端等多种应用场景
+39. [Fastjson](https://github.com/alibaba/fastjson) 是一个 Java 语言编写的高性能功能完善的 JSON 库. 它采用一种“假定有序快速匹配”的算法, 把 JSON Parse的性能提升到极致, 是目前Java语言中最快的JSON库. Fastjson接口简单易用, 已经被广泛使用在缓存序列化, 协议交互, Web输出, Android客户端等多种应用场景
 
-40.cardslib (不建议使用)Cardslib 是早期由 Gabriele Mariotti 开发的一个为开发者方便实现各种 Card UI 的 Android 开源代码库, 后来 Google 官方提供自己封装了 CardView 在 v7 包下, 使用 Google 官方的可以完全替代了这个库, 因此这个也被弃用了
+40. [cardslib](https://github.com/gabrielemariotti/cardslib) (不建议使用)Cardslib 是早期由 Gabriele Mariotti 开发的一个为开发者方便实现各种 Card UI 的 Android 开源代码库, 后来 Google 官方提供自己封装了 CardView 在 v7 包下, 使用 Google 官方的可以完全替代了这个库, 因此这个也被弃用了
 
-41.Android-Ultra-Pull-To-Refresh开发者是廖祜秋, 这个是一个非常强大的下拉刷新库, 继承 ViewGroup 可以包含任何 View, 功能甚至比 SwipeRefreshLayout 强大, 使用起来也非常容易, 还可以自由定制自己的 UI 样式
+41. [Android-Ultra-Pull-To-Refresh](https://github.com/liaohuqiu/android-Ultra-Pull-To-Refresh)一个非常强大的下拉刷新库, 继承 ViewGroup 可以包含任何 View, 功能甚至比 SwipeRefreshLayout 强大, 使用起来也非常容易, 还可以自由定制自己的 UI 样式
 
-42.greenDAOgreenDAO 是一个可以帮助 Android 开发者快速将 Java 对象映射到 SQLite 数据库的表单中的 ORM解决方案, 通过使用一个简单的面向对象 API, 开发者可以对 Java 对象进行存储, 更新, 删除和查询, greenDAO 相对 OrmLite, AndrORM 这两个 ORM 开源库, 性能是最高的
+42. [greenDAO](https://github.com/greenrobot/greenDAO) 是一个可以帮助 Android 开发者快速将 Java 对象映射到 SQLite 数据库的表单中的 ORM解决方案, 通过使用一个简单的面向对象 API, 开发者可以对 Java 对象进行存储, 更新, 删除和查询, greenDAO 相对 OrmLite, AndrORM 这两个 ORM 开源库, 性能是最高的
 
-43.AndroidStaggeredGridAndroidStaggeredGrid 是一个支持多列并且每一行的 item 大小不一, 交错排列的 GridView, 就是实现瀑布流样式效果, 目前该库已经被弃用了, 开发者建议我们使用 Google 官方控件 RecyleView 中的 StaggeredGridLayoutManager 布局来实现瀑布流效果
+43. [AndroidStaggeredGrid](https://github.com/etsy/AndroidStaggeredGrid) 是一个支持多列并且每一行的 item 大小不一, 交错排列的 GridView, 就是实现瀑布流样式效果, 目前该库已经被弃用了, 开发者建议我们使用 Google 官方控件 RecyleView 中的 StaggeredGridLayoutManager 布局来实现瀑布流效果
 
-44.ottoOtto 是 Square 公司出的一个事件库 (pub/sub 模式), 用来简化应用程序组件之间的通讯, otto 修改自 Google 的 Guava 库, 专门为 Android 平台进行了优化, 与上面介绍的 EventBus 相比, 两个库各有各的优点, 完全取决于我们自己项目的需求来选择它们哪一个
+44. [Otto](https://github.com/square/otto) 是 Square 公司出的一个事件库 (pub/sub 模式), 用来简化应用程序组件之间的通讯, otto 修改自 Google 的 Guava 库, 专门为 Android 平台进行了优化, 与上面介绍的 EventBus 相比, 两个库各有各的优点, 完全取决于我们自己项目的需求来选择它们哪一个
 
-45.xUtilsxUtils 是一个快速开发框架, 里面包含 DbUtils, ViewUtils, HttpUtils, BitmapUtils 四大模块, 可用于快速开发, 支持大文件上传, 拥有更加灵活的 ORM, 最低兼容 Android 2.2
+45. [xUtils](https://github.com/wyouflf/xUtils) 是一个快速开发框架, 里面包含 DbUtils, ViewUtils, HttpUtils, BitmapUtils 四大模块, 可用于快速开发, 支持大文件上传, 拥有更加灵活的 ORM, 最低兼容 Android 2.2
 
-46.realm-javaRealm 一个轻量的 Android 版本的数据存储库, 比 Android 原生系统的 SQLite 更加简洁快速对数据进行操作
+46. [realm-javaRealm](https://github.com/realm/realm-java) 一个轻量的 Android 版本的数据存储库, 比 Android 原生系统的 SQLite 更加简洁快速对数据进行操作
 
-47.Android-CleanArchitectureCleanArchitecture 是一个非常典型使用 MVP 架构的项目, 大家如果还没有理解 MVP 架构的可以看看这个项目
+47. [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) 是一个非常典型使用 MVP 架构的项目, 大家如果还没有理解 MVP 架构的可以看看这个项目
 
-48.StickyListHeadersStickyListHeaders 是一个实现能够固定在屏幕顶部的ListView Section Header库, 就是当前 section 的 header 固定在屏幕顶部, 当滑动到其他 section 时, 其他 section 的 header 会代替之前的 section 的 header, 固定到屏幕顶部, 类似于 Android4.0 的手机通讯录的效果
+48. [StickyListHeaders](https://github.com/emilsjolander/StickyListHeaders) 是一个实现能够固定在屏幕顶部的ListView Section Header库, 就是当前 section 的 header 固定在屏幕顶部, 当滑动到其他 section 时, 其他 section 的 header 会代替之前的 section 的 header, 固定到屏幕顶部, 类似于 Android4.0 的手机通讯录的效果
 
-49.AppIntroAppIntro 是一个让人轻松快速搭建漂亮酷炫的引导页库
+49. [AppIntro](https://github.com/PaoloRotolo/AppIntro) 是一个让人轻松快速搭建漂亮酷炫的引导页库
 
-50.ActiveAndroidActiveAndroid 是采用Rails中的Active Record架构模式设计的适用于 Android 平台的轻量级 ORM 架构, 几乎可以不用写任何 SQL 代码实现快速开发
+50. [ActiveAndroid](https://github.com/pardom/ActiveAndroid)是采用Rails中的Active Record架构模式设计的适用于 Android 平台的轻量级 ORM 架构, 几乎可以不用写任何 SQL 代码实现快速开发
 
-51.android-volleyVolley 是谷歌官方开发团队在 2013 年 Google I/O 大会推出的一个新的网络通信框架, 这个框架把 AsyncHttpClient 和 Universal-Image-Loader 的优点集于了一身,既可以像AsyncHttpClient 一样非常简单地进行 HTTP 通信,也可以像 Universal-Image-Loader 一样轻松加载网络上的图片, 这个库并不是官方的, 只是托管同步在 Maven, 官方只提供的 Jar 包
+51. [android-Volley](https://github.com/mcxiaoke/android-volley) 是谷歌官方开发团队在 2013 年 Google I/O 大会推出的一个新的网络通信框架, 这个框架把 AsyncHttpClient 和 Universal-Image-Loader 的优点集于了一身,既可以像AsyncHttpClient 一样非常简单地进行 HTTP 通信,也可以像 Universal-Image-Loader 一样轻松加载网络上的图片, 这个库并不是官方的, 只是托管同步在 Maven, 官方只提供的 Jar 包
 
-52.twoway-viewTwoWayView 是简化 RecyclerView 开发的一个库, 可以在其 Base LayoutManager 基础上构建各种各样的布局, 该库内置了几个常用布局 List, Grid, Staggered Grid,Spannable Grid
+52. [TwoWayView](https://github.com/lucasr/twoway-view) 是简化 RecyclerView 开发的一个库, 可以在其 Base LayoutManager 基础上构建各种各样的布局, 该库内置了几个常用布局 List, Grid, Staggered Grid,Spannable Grid
 
 53.ShowcaseViewShowcaseView 是一个非常适合用于对用户进行第一次使用进行指导的库,使用起来非常简单还可以自定义样式
 
