@@ -796,98 +796,98 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
 
 52. [TwoWayView](https://github.com/lucasr/twoway-view) 是简化 RecyclerView 开发的一个库, 可以在其 Base LayoutManager 基础上构建各种各样的布局, 该库内置了几个常用布局 List, Grid, Staggered Grid,Spannable Grid
 
-53.ShowcaseViewShowcaseView 是一个非常适合用于对用户进行第一次使用进行指导的库,使用起来非常简单还可以自定义样式
+53. [ShowcaseView](https://github.com/amlcurran/ShowcaseView) 是一个非常适合用于对用户进行第一次使用进行指导的库,使用起来非常简单还可以自定义样式
 
-54.CalligraphyCalligraphy 是一个用来简化 Android 应用使用自定义字体的类库, 该类库会自动查找应用中的 TextView 并设置其使用的字体
+54. [Calligraphy](https://github.com/chrisjenx/Calligraphy) 是一个用来简化 Android 应用使用自定义字体的类库, 该类库会自动查找应用中的 TextView 并设置其使用的字体
 
-55.NineOldAndroidsNineOldAndroids 由 JakeWharton 大神开发的一个向下兼容的动画库, 主要是使低于API 11的系统也能够使用 View 的属性动画, 不过现在 JakeWharton 大神已经不推荐使用该库, 而是推荐我们使用官方封装在 Support 库里面的动画
+55. [NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids) 由 JakeWharton 大神开发的一个向下兼容的动画库, 主要是使低于API 11的系统也能够使用 View 的属性动画, 不过现在 JakeWharton 大神已经不推荐使用该库, 而是推荐我们使用官方封装在 Support 库里面的动画
 
-56.android-floating-action-buttonFloatingActionButton 是一个悬浮操作按钮, 官方在 Support Design 包下也有封装一个类似这个库效果的 FloatingActionButton, 值得说明的是这个库是早在官方封装之前就存在的, 个人感觉这个库比官方那个更加好用
+56. [android-floating-action-button](https://github.com/futuresimple/android-floating-action-button) 是一个悬浮操作按钮, 官方在 Support Design 包下也有封装一个类似这个库效果的 FloatingActionButton, 值得说明的是这个库是早在官方封装之前就存在的, 个人感觉这个库比官方那个更加好用
 
-57.CircleImageViewCircleImageView 是一个轻松帮你实现圆形效果 ImageView 图片库, CircleImageView 是基于 ImageView 扩展出来, 因此它拥有 ImageView 控件所有属性, 简单易用值得你使用的库
+57. [CircleImageView](https://github.com/hdodenhof/CircleImageView)是一个轻松帮你实现圆形效果 ImageView 图片库, CircleImageView 是基于 ImageView 扩展出来, 因此它拥有 ImageView 控件所有属性, 简单易用值得你使用的库
 
-58.materialMaterial 是将 Material Design 风格控件封装在该库当中, 目前封装有Progress, Button, Switch, Slider, Spinner, Text Field, TabPageIndicator, SnackBar, Dialog, BottomSheetDialog, Dynamic theme
+58. [Material](https://github.com/rey5137/material) 是将 Material Design 风格控件封装在该库当中, 目前封装有Progress, Button, Switch, Slider, Spinner, Text Field, TabPageIndicator, SnackBar, Dialog, BottomSheetDialog, Dynamic theme
 
-59.ActionBar-PullToRefreshActionBar-PullToRefresh 是一个下拉刷新, 下拉刷新时在 ActionBar 出现加载中提示的库
+59. [ActionBar-PullToRefresh](https://github.com/chrisbanes/ActionBar-PullToRefresh) 是一个下拉刷新, 下拉刷新时在 ActionBar 出现加载中提示的库
 
-60.FloatingActionButton又一个悬浮操作按钮库, 该库添加支持监听滑滚动事件, 当向下滑时按钮隐藏, 向上滑时按钮显示, 还有动画效果, 支持监听 ListView, ScrollView, RecylerView
+60. [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)又一个悬浮操作按钮库, 该库添加支持监听滑滚动事件, 当向下滑时按钮隐藏, 向上滑时按钮显示, 还有动画效果, 支持监听 ListView, ScrollView, RecylerView
 
-61.AndroidAsyncAndroidAsync 是一款基于 NIO 的低端 Android 异步 socket, http (client+server), websocket 和 socket.io 网络通信协议类库
+61. [AndroidAsync](https://github.com/koush/AndroidAsync)是一款基于 NIO 的低端 Android 异步 socket, http (client+server), websocket 和 socket.io 网络通信协议类库
 
-62.reboundRebound 是 Facebook 推出的一个弹性动画库, 可以让动画看起来真实自然, 像真实世界的物理运动, 带有力的效果, 使用的参数则是 Facebook 的 origami 中使用的
+62. [Rebound](https://github.com/facebook/rebound) 是 Facebook 推出的一个弹性动画库, 可以让动画看起来真实自然, 像真实世界的物理运动, 带有力的效果, 使用的参数则是 Facebook 的 origami 中使用的
 
-63.android-commonandroid-common-lib 是 Trinea 大神收集的一些开发通用的缓存, 公共 View 以及一些常用工具类
+63. [android-common-lib](https://github.com/Trinea/android-common) 是一些开发通用的缓存, 公共 View 以及一些常用工具类
 
-64.RippleEffectRippleEffect 是一个实现在 Android 任何组件点击出现 Material Design 的波纹效果, 向下兼容到 Android API9
+64. [RippleEffect](https://github.com/traex/RippleEffect) 是一个实现在 Android 任何组件点击出现 Material Design 的波纹效果, 向下兼容到 Android API9
 
-65.SmoothProgressBarSmoothProgressBar 是一个帮你的 App 方便实现可定制, 平滑动画的水平滚动进度条库
+65. [SmoothProgressBar](https://github.com/castorflex/SmoothProgressBar) 是一个帮你的 App 方便实现可定制, 平滑动画的水平滚动进度条库
 
-66.recyclerview-animatorsRecyclerView Animators 是一个对 Recycler 控件的 Item 添加以及删除增加动画效果, 动画效果有Scale, Fade, Flip, Slide 里面各种各样效果
+66. [RecyclerView Animators](https://github.com/wasabeef/recyclerview-animators) 是一个对 Recycler 控件的 Item 添加以及删除增加动画效果, 动画效果有Scale, Fade, Flip, Slide 里面各种各样效果
 
-67.circular-progress-button一个带进度显示的 Button, 效果和动画做的都非常赞
+67. [circular-progress-button](https://github.com/dmytrodanylyk/circular-progress-button)一个带进度显示的 Button, 效果和动画做的都非常赞
 
-68.DroidPluginDroidPlugin 是 360 手机助手在 Android 系统上实现了一种新的插件机制: 它可以在无需安装, 修改的情况下运行APK文件, 此机制对改进大型APP的架构, 实现多团队协作开发具有一定的好处
+68. [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) 是 360 手机助手在 Android 系统上实现了一种新的插件机制: 它可以在无需安装, 修改的情况下运行APK文件, 此机制对改进大型APP的架构, 实现多团队协作开发具有一定的好处
 
-69.dynamic-load-apk开发者是 singwhatiwanna(任玉刚), 是《Android 开发艺术探索》书籍的作者, 这个是作者联合另两位开发者啸(时之沙)和宋思宇花了几个月时间研究出来的 Apk 动态加载框架, 想了解更多关于这框架可到作者博客看这篇文章有详细介绍
+69. [dynamic-load-apk](https://github.com/singwhatiwanna/dynamic-load-apk)开发者是 singwhatiwanna(任玉刚), 是《Android 开发艺术探索》书籍的作者, 这个是作者联合另两位开发者啸(时之沙)和宋思宇花了几个月时间研究出来的 Apk 动态加载框架, 想了解更多关于这框架可到作者博客看这篇文章有详细介绍
 
-70.ExoPlayerExoPlayer 是Google 开发团队开源出来的一个媒体播放库, 比 Android 框架原生的 MediaPlayer 拥有更多优点支持动态的自适应流 HTTP(DASH) 和 平滑流, 支持高级的HLS特性, 支持自定义和扩治你的使用场景等等
+70. [ExoPlayer](https://github.com/google/ExoPlayer)是Google 开发团队开源出来的一个媒体播放库, 比 Android 框架原生的 MediaPlayer 拥有更多优点支持动态的自适应流 HTTP(DASH) 和 平滑流, 支持高级的HLS特性, 支持自定义和扩治你的使用场景等等
 
-71.Crouton (不建议使用)Crouton 是一个显示提示信息的显示工具类, 可以用来代替 Toast, 默认显示在窗口的顶部, 可以按队列一个接着一个显示, 不过该库已经被弃用, 不推荐使用
+71. [Crouton](https://github.com/keyboardsurfer/Crouton) (不建议使用)Crouton 是一个显示提示信息的显示工具类, 可以用来代替 Toast, 默认显示在窗口的顶部, 可以按队列一个接着一个显示, 不过该库已经被弃用, 不推荐使用
 
-72.robospiceRoboSpice 是一个使你建立异步的长时间的运行任务异常轻松的一个网络库，在网络请求，缓存支持，和提供开箱即用的 rest 请求方面尤为强大
+72. [RoboSpice](https://github.com/stephanenicolas/robospice) 是一个使你建立异步的长时间的运行任务异常轻松的一个网络库，在网络请求，缓存支持，和提供开箱即用的 rest 请求方面尤为强大
 
-73.hugoHugo 是 JakeWharton 大神推出的一个用于打印 Log, hugo 是基于注解被调用的, 引入相关依赖后, 在方法上加上 @DebugLog 即可输出 Log, 使用非常简单
+73. [Hugo](https://github.com/JakeWharton/hugo) 是 JakeWharton 大神推出的一个用于打印 Log, hugo 是基于注解被调用的, 引入相关依赖后, 在方法上加上 @DebugLog 即可输出 Log, 使用非常简单
 
-74.async-http-clientAsyncHttpClient 是又一款 Android 异步请求库, 该库支持 WebSocket 协议, 使用起来也比较简单易用
+74. [AsyncHttpClient](https://github.com/AsyncHttpClient/async-http-client) 是又一款 Android 异步请求库, 该库支持 WebSocket 协议, 使用起来也比较简单易用
 
-75.UltimateRecyclerViewUltimateRecyclerView 是一个功能强大的 RecyclerView(advanced and flexible version of ListView), 包括了下拉刷新, 加载更多, 多种动画, 空数据提示, 拖动排序, 视差处理, 工具栏渐变, 滑动删除, 自定义floating button, 多种刷新效果, scrollbar, sticky header, 多 layout 支持等等元素, 而且使用起来跟 RecyclerView 一样的方便
+75. [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView) 是一个功能强大的 RecyclerView(advanced and flexible version of ListView), 包括了下拉刷新, 加载更多, 多种动画, 空数据提示, 拖动排序, 视差处理, 工具栏渐变, 滑动删除, 自定义floating button, 多种刷新效果, scrollbar, sticky header, 多 layout 支持等等元素, 而且使用起来跟 RecyclerView 一样的方便
 
-76.MaterialEditTextMaterialEditText 是就职于 Flipboard 的员工扔物线开发的, 在 AppCompat v21 中也提供了 Material Design 的控件 EditText, 可是由于比较难用, 没有提供设置颜色的 Api, 于是就产生这个第三方库
+76. [MaterialEditText](https://github.com/rengwuxian/MaterialEditText)是就职于 Flipboard 的员工[扔物线](https://www.zhihu.com/people/rengwuxian)开发的, 在 AppCompat v21 中也提供了 Material Design 的控件 EditText, 可是由于比较难用, 没有提供设置颜色的 Api, 于是就产生这个第三方库
 
-77.Side-Menu.AndroidSide Menu 是Yalantis组织开源出来, 该组织因开源出一些动画很棒的开源库为大家所熟知该库是其中一个, 该库是提供翻页动画效果的侧边菜单, 动画体验超赞的
+77. [AndroidSide Menu](https://github.com/Yalantis/Side-Menu.Android)[是Yalantis](https://yalantis.com/)组织开源出来, 该组织因开源出一些动画很棒的开源库为大家所熟知该库是其中一个, 该库是提供翻页动画效果的侧边菜单, 动画体验超赞的
 
-78.drag-sort-listviewDragSortListView 是一个可以实现拖动排序, 滑动删除的 listview 控件, 注意的是作者对该库已经放弃维护更新了, 不过感兴趣的人可以去研究一下
+78. [DragSortListView](https://github.com/bauerca/drag-sort-listview)是一个可以实现拖动排序, 滑动删除的 listview 控件, 注意的是作者对该库已经放弃维护更新了, 不过感兴趣的人可以去研究一下
 
-79.android-times-squareTimesSquare 是 Square 公司出品的一款显示日历选择日期的控件, 可以让用户选择多个日期
+79. [android-times-square](https://github.com/square/android-times-square) 是 Square 公司出品的一款显示日历选择日期的控件, 可以让用户选择多个日期
 
-80.GreenDroid(不建议使用)GreenDroid 是一个封装好的 Android UI 界面库, 不过该库已经被弃用了, 不建议使用
+80. [GreenDroid](https://github.com/cyrilmottier/GreenDroid)(不建议使用)GreenDroid 是一个封装好的 Android UI 界面库, 不过该库已经被弃用了, 不建议使用
 
-81.loggerLogger 是一个简单, 漂亮, 强大 Android 打印日志库
+81. [Logger](https://github.com/orhanobut/logger) 是一个简单, 漂亮, 强大 Android 打印日志库
 
-82.acraAcra 是一个能够让 Android 应用自动将崩溃报告以谷歌文档电子表的形式进行发送的库, 旨在当应用发生崩溃或出现错误行为时, 开发者可以获取到相关数据
+82. [Acra](https://github.com/ACRA/acra) 是一个能够让 Android 应用自动将崩溃报告以谷歌文档电子表的形式进行发送的库, 旨在当应用发生崩溃或出现错误行为时, 开发者可以获取到相关数据
 
-83.FadingActionBarFadingActionBar 是一个支持 ListView, ScrollView, WebView 向下滚动时逐渐显示 ActionBar 库
+83. [FadingActionBar](https://github.com/ManuelPeinado/FadingActionBar) 是一个支持 ListView, ScrollView, WebView 向下滚动时逐渐显示 ActionBar 库
 
-84.AndroidImageSliderAndroidImageSlider 库开发者是代码家, 该库是为 Banner 图片滑动提供多种动画效果, 还可以轻易为 Banner 加载网络图片
+84. [AndroidImageSlider](https://github.com/daimajia/AndroidImageSlider) 库开发者是代码家, 该库是为 Banner 图片滑动提供多种动画效果, 还可以轻易为 Banner 加载网络图片
 
-85.SystemBarTintSystemBarTint 是一个实现沉浸式状态栏库, 适用于 Android 系统 4.4 其以上的版本
+85. [SystemBarTint](https://github.com/jgilfelt/SystemBarTint) 是一个实现沉浸式状态栏库, 适用于 Android 系统 4.4 其以上的版本
 
-86.android-menudrawerMenuDrawer 是一款滑出式菜单库, 通过拖动屏幕边缘滑出菜单, 支持屏幕上下左右划出, 支持当前 View 处于上下层, 支持 Windows 边缘, ListView 边缘, ViewPager 变化划出菜单等
+86. [android-MenuDrawer](https://github.com/SimonVT/android-menudrawer) 是一款滑出式菜单库, 通过拖动屏幕边缘滑出菜单, 支持屏幕上下左右划出, 支持当前 View 处于上下层, 支持 Windows 边缘, ListView 边缘, ViewPager 变化划出菜单等
 
-87.RoundedImageViewRoundedImageView 一个快速支持图片圆角显示效果的库, 该库特点是能快速加载, 为了提高加载速度, 该库不用创建原始位图的副本, 不使用 clipPath, 不使用 setXfermode 裁剪的位图等方式来实现 ImageView 圆角, 使用也非常简单
+87. [RoundedImageView](https://github.com/vinc3m1/RoundedImageView) 一个快速支持图片圆角显示效果的库, 该库特点是能快速加载, 为了提高加载速度, 该库不用创建原始位图的副本, 不使用 clipPath, 不使用 setXfermode 裁剪的位图等方式来实现 ImageView 圆角, 使用也非常简单
 
-88.afinalAfinal 是一个 android 的 sqlite orm 和 ioc 框架, 同时封装了 android 中的 http 框架, 使其更加简单易用, 使用 finalBitmap, 无需考虑 bitmap 在 android 中加载的时候 oom 的问题和快速滑动的时候图片加载位置错位等问题, Afinal 的宗旨是简洁, 快速, 约定大于配置的方式, 尽量一行代码完成所有事情
+88. [Afinal](https://github.com/yangfuhai/afinal) 是一个 android 的 sqlite orm 和 ioc 框架, 同时封装了 android 中的 http 框架, 使其更加简单易用, 使用 finalBitmap, 无需考虑 bitmap 在 android 中加载的时候 oom 的问题和快速滑动的时候图片加载位置错位等问题, Afinal 的宗旨是简洁, 快速, 约定大于配置的方式, 尽量一行代码完成所有事情
 
-89.android-pulltorefresh(不建议使用)另一个下拉刷新库, 但是该库已经停止维护, 因此不建议使用, 推荐使用Android-Ultra-Pull-To-Refresh
+89. [android-pulltorefresh](https://github.com/johannilsson/android-pulltorefresh)(不建议使用)另一个下拉刷新库, 但是该库已经停止维护, 因此不建议使用, 推荐使用Android-Ultra-Pull-To-Refresh
 
-90.Bolts-AndroidBolts 是一款底层类库集合, 在后台实现异步操作, 并提供接口反馈当前异步执行的程度 (可以通过接口实现UI进度更新), 最后反馈执行的结果给UI主线程, 与AsyncTask比较: (1)使用的是无大小限制的线程池; (2)任务可组合可级联,防止了代码耦合
+90. [Bolts](https://github.com/BoltsFramework/Bolts-Android)是一款底层类库集合, 在后台实现异步操作, 并提供接口反馈当前异步执行的程度 (可以通过接口实现UI进度更新), 最后反馈执行的结果给UI主线程, 与AsyncTask比较: (1)使用的是无大小限制的线程池; (2)任务可组合可级联,防止了代码耦合
 
-91.NumberProgressBarNumberProgressBar 开发者是代码家, 这是一个带简约性感数字显示的进度条库, 使用非常简单方便
+91. [NumberProgressBar](https://github.com/daimajia/NumberProgressBar) 开发者是代码家, 这是一个带简约性感数字显示的进度条库, 使用非常简单方便
 
-92.SwipeBackLayoutSwipeBackLayout 是一个支持屏幕上下左右滑动返回上层 Activity, 关闭当前 Activity, 类似简书 App
+92. [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout) 是一个支持屏幕上下左右滑动返回上层 Activity, 关闭当前 Activity, 类似简书 App
 
-93.android-gif-drawable一个支持 gif 显示的 view, 用 jni 实现的, 编译生成 so 库后直接 xml 定义 view 即可, 简单易用
+93. [android-gif-drawable](https://github.com/koral--/android-gif-drawable)一个支持 gif 显示的 view, 用 jni 实现的, 编译生成 so 库后直接 xml 定义 view 即可, 简单易用
 
-94.VitamioBundleVitamio 是一款 Android 与 iOS 平台上的全能多媒体开发框架, 特点：(1) 全面支持硬件解码与 GPU 渲染, (2) 能够流畅播放 720P 甚至 1080P 高清 MKV, FLV, MP4, MOV, TS, RMVB 等常见格式的视频, (3) 在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议, 包括点播与直播
+94. [VitamioBundle](https://github.com/yixia/VitamioBundle) 是一款 Android 与 iOS 平台上的全能多媒体开发框架, 特点：(1) 全面支持硬件解码与 GPU 渲染, (2) 能够流畅播放 720P 甚至 1080P 高清 MKV, FLV, MP4, MOV, TS, RMVB 等常见格式的视频, (3) 在 Android 与 iOS 上跨平台支持 MMS, RTSP, RTMP, HLS(m3u8)等常见的多种视频流媒体协议, 包括点播与直播
 
-95.SmartTabLayoutSmartTabLayout 是一个自定义的 Tab title strip, 基于 Google Samples 中的 android-SlidingTabBasic 项目, 滑动时 Indicator 可平滑过渡
+95. [SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) 是一个自定义的 Tab title strip, 基于 Google Samples 中的 android-SlidingTabBasic 项目, 滑动时 Indicator 可平滑过渡
 
-96.uCropuCrop 是Yalantis组织开源的图片裁剪库, 支持缩放, 旋转图片, 支持各种比例的裁剪框, 非常强大的一个图片裁剪库
+96. [uCrop](https://github.com/Yalantis/uCrop) 是Yalantis组织开源的图片裁剪库, 支持缩放, 旋转图片, 支持各种比例的裁剪框, 非常强大的一个图片裁剪库
 
-97.android-crop又一个图片裁剪库, 向下兼容到 Api 10, 个人感觉这个库并没有比上面介绍的 uCrop 强大
+97. [android-crop](https://github.com/jdamcd/android-crop)又一个图片裁剪库, 向下兼容到 Api 10, 个人感觉这个库并没有比上面介绍的 uCrop 强大
 
-98.HoloEveryWhereHoloEveryWhere 是一套 Android 开发库, 提供了全套 Holo Style 控件, 它的外观与功能和标准 Holo Style 控件基本相同, 唯一不同的是它可以运行在低于 4.0 版本的 Android 系统上
+98. [HoloEveryWhere](https://github.com/Prototik/HoloEverywhere) 是一套 Android 开发库, 提供了全套 Holo Style 控件, 它的外观与功能和标准 Holo Style 控件基本相同, 唯一不同的是它可以运行在低于 4.0 版本的 Android 系统上
 
-99.AVLoadingIndicatorViewAVLoadingIndicatorView 库含有各种各样漂亮的加载动画效果, 使用起来也非常简单, 和平时使用 ProgressBar 一样
+99. [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView) 库含有各种各样漂亮的加载动画效果, 使用起来也非常简单, 和平时使用 ProgressBar 一样
 
-00.sweet-alert-dialogAndroid 版的 SweetAlert, 清新文艺, 快意灵动的甜心弹框, 灵感来源于 JS 版SweetAlert
+100. [sweet-alert-dialog](https://github.com/pedant/sweet-alert-dialog)Android 版的 SweetAlert, 清新文艺, 快意灵动的甜心弹框, 灵感来源于 JS 版[SweetAlert](http://t4t5.github.io/sweetalert/)
