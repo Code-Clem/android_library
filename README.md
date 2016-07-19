@@ -33,7 +33,7 @@
 - [开发资源](#开发资源)
     - [他人开源总结](#他人开源总结)
     - [中文开发博客列表](#中文开发博客列表)
-- [GitHub开源库排名一百的简单介绍](#GitHub开源库排名一百的简单介绍)
+- [GitHub开源库排名一百的简单介绍](#github开源库排名一百的简单介绍)
 
 ========
 ### 具体内容 
@@ -692,21 +692,21 @@ Android源代码](http://www.apkbus.com/plugin.php?id=codesrc&modo=all)。
  
 ##### GitHub开源库排名一百的简单介绍
 
-1.[react-native](https://github.com/facebook/react-native)这个是 Facebook 在 React.js Conf 2015 大会上推出的基于 JavaScript 的开源框架 React Native, 该框架结合了 Web 应用和 Native 应用的优势, 可以使用 JavaScript 来开发 iOS 和 Android 原生应用
+1. [react-native](https://github.com/facebook/react-native)这个是 Facebook 在 React.js Conf 2015 大会上推出的基于 JavaScript 的开源框架 React Native, 该框架结合了 Web 应用和 Native 应用的优势, 可以使用 JavaScript 来开发 iOS 和 Android 原生应用
 
-2.Android-Universal-Image-LoaderImageLoader 是最早开源的 Android 图片缓存库, 强大的缓存机制, 早期被广泛 Android 应用使用, 至今仍然有很多 Android 开发者在使用
+2. [Android-Universal-Image-LoaderImageLoader](https://github.com/nostra13/Android-Universal-Image-Loader) 是最早开源的 Android 图片缓存库, 强大的缓存机制, 早期被广泛 Android 应用使用, 至今仍然有很多 Android 开发者在使用
 
-3.RxJavaRxJava 是一个在 Java VM 上使用可观测的序列来组成异步的, 基于事件的程序的库, 简单来说它就是一个实现异步操作的库, RxJava 的优点在于一个词 "简洁", 使用它就算你程序逻辑有多么复杂, 它依然能够保持简洁易懂
+3. [RxJavaRxJava](https://github.com/ReactiveX/RxJava) 是一个在 Java VM 上使用可观测的序列来组成异步的, 基于事件的程序的库, 简单来说它就是一个实现异步操作的库, RxJava 的优点在于一个词 "简洁", 使用它就算你程序逻辑有多么复杂, 它依然能够保持简洁易懂
 
-4.retrofitRetrofit 是 Square 公司出品的 HTTP 请求库, 同时是 Square 是最早开源项目之一, Retrofit 是目前 Android 最流行的 Http Client 库之一, 目前版本是 Retrofit2.0 Beta4, 越来越多 Android 开发者开始使用这个请求库了
+4. [Retrofit](https://github.com/square/retrofit)是Square 公司出品的 HTTP 请求库, 同时是 Square 是最早开源项目之一, Retrofit 是目前 Android 最流行的 Http Client 库之一, 目前版本是 Retrofit2.0 Beta4, 越来越多 Android 开发者开始使用这个请求库了
 
-5.okhttpOkHttp 是 Square 公司出品的 HTTP 另一个请求库, Google 不推荐人们使用 HttpClient, 可是 HttpURLConnection 实在是太难用了, 因此很多人使用了 OkHttp 来解决这问题, 据说 Android4.4 的源码中可以看到 HttpURLConnection 已经替换成 OkHttp 实现呢
+5. [OkHttp](https://github.com/square/okhttp)是 Square 公司出品的 HTTP 另一个请求库, Google 不推荐人们使用 HttpClient, 可是 HttpURLConnection 实在是太难用了, 因此很多人使用了 OkHttp 来解决这问题, 据说 Android4.4 的源码中可以看到 HttpURLConnection 已经替换成 OkHttp 实现呢
 
-6.SlidingMenu(不建议使用)一个侧滑菜单开源库, 在 Google 自己原生态的侧滑菜单 NavigationDrawer 没有出现之前, 这个库就已经被广泛使用, 可是到现在这个库已经被放弃了
+6. [SlidingMenu](https://github.com/jfeinstein10/SlidingMenu)(不建议使用)一个侧滑菜单开源库, 在 Google 自己原生态的侧滑菜单 NavigationDrawer 没有出现之前, 这个库就已经被广泛使用, 可是到现在这个库已经被放弃了
 
-7.picassoPicasso 是 Square 公司出品的一款图片缓存库, 主导者是 JakeWharton 大神
+7. [Picasso](https://github.com/square/picasso)是 Square 公司出品的一款图片缓存库, 主导者是 JakeWharton 大神
 
-8.android-best-practicesAndroid 开发最佳实践, 里面所介绍的经验都是来自于 Futurice 公司 Android 开发者, 介绍内容有 Android 开发规范, 架构, 布局技巧, 以及使用一些有助于快速开发相关工具等等, 非常适合新手去学习
+8. [android-best-practicesAndroid](https://github.com/futurice/android-best-practices)开发最佳实践, 里面所介绍的经验都是来自于 Futurice 公司 Android 开发者, 介绍内容有 Android 开发规范, 架构, 布局技巧, 以及使用一些有助于快速开发相关工具等等, 非常适合新手去学习
 
 9.EventBusEventBus 是 Android 事件管理总线, 使用它可以替带 Android BroadCast, BroadCastReceiver, Handler 在 Activity, Fragment, Service, 线程之间传递消息, 大大简化了事件传递逻辑
 
